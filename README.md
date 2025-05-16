@@ -1,8 +1,13 @@
 Segunda - reunião tira duvidas dos repositorios
+
 Terça feira - checking e inspeção de PR
+
 Quarta feira - checking e inspeção de PR
+
 Quinta feira - Checkout de entregas PR
+
 Sexta feira - Distribuição de repositórios
+
 
 
 ✅ Checklist Operacional do Processo
