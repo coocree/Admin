@@ -1,5 +1,3 @@
-Perfeito! Vamos por partes. Abaixo você encontrará:
-
 ✅ Checklist Operacional do Processo
 
 📋 Templates de Issue e Pull Request
