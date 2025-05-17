@@ -1,12 +1,27 @@
-Segunda - reunião tira duvidas dos repositorios
+#Segunda - 
+Reunião tira duvidas dos repositorios
+Acompanhamento das Issues em andamento
+Testes de componentes finalizados
+Revisão de componentes
 
-Terça feira - checking e inspeção de PR
+#Terça feira - 
+Checking e inspeção de PR
+Acompanhamento das Issues em andamento
 
-Quarta feira - checking e inspeção de PR
 
-Quinta feira - Checkout de entregas PR
 
-Sexta feira - Distribuição de repositórios
+#Quarta feira - checking e inspeção de PR
+Acompanhamento das Issues em andamento
+
+
+#Quinta feira - 
+Checkout de entregas PR
+Levantamento de pagamento
+Solicitação de pagamento
+
+#Sexta feira -
+Criação de repositório
+Distribuição de repositórios
 
 
 
