@@ -1,44 +1,36 @@
-# Planejamento Semanal do Gestor de Projetos
+# Lista de Tarefas do Gestor de Projetos
 
-| **Frequência**       | **Tarefa**                                        | **Descrição / Objetivo**                                                                |
-|----------------------|---------------------------------------------------|------------------------------------------------------------------------------------------|
-| **Diariamente**      | Check-in com equipe (reunião rápida / daily)      | Acompanhar andamento das tarefas, identificar obstáculos, manter equipe alinhada.       |
-|                      | Atualizar status no quadro de tarefas (Kanban etc)| Verificar o progresso de cada tarefa e manter o projeto visualmente organizado.         |
-|                      | Responder e-mails e mensagens de stakeholders     | Garantir comunicação fluida com clientes, patrocinadores e outros interessados.         |
-|                      | Monitorar prazos e entregas                       | Checar se as tarefas estão no tempo previsto, agir se algo estiver atrasado.            |
-|                      | Analisar indicadores de desempenho (se houver)    | Observar produtividade, qualidade, retrabalho ou outros dados relevantes.               |
-|                      | Registrar decisões e mudanças                     | Atualizar documentação sempre que houver alterações no projeto.                         |
-
-| **Semanalmente**     | Reunião de planejamento da semana (com equipe)    | Definir prioridades, delegar tarefas, revisar metas e alinhar expectativas.             |
-|                      | Atualizar cronograma geral                        | Ajustar datas com base no progresso real.                                                |
-|                      | Reunião com stakeholders / cliente                | Informar status do projeto, alinhar entregas e expectativas.                            |
-|                      | Revisar riscos e plano de ação                    | Identificar novos riscos e rever planos de contingência.                                |
-|                      | Check financeiro (gastos vs orçamento)            | Verificar se o projeto está dentro do orçamento previsto.                               |
-
-| **Quinzenal / Sprint** | Revisão da sprint anterior                     | Avaliar o que foi entregue, lições aprendidas, obstáculos superados.                    |
-|                      | Planejamento da próxima sprint                   | Definir backlog, prioridades e quem será responsável por cada item.                     |
-|                      | Retrospectiva da equipe                          | Espaço para feedbacks, sugestões e melhorias na forma de trabalhar.                     |
-
-| **Mensalmente**      | Análise de desempenho do projeto                  | Avaliar progresso geral, entregas realizadas, indicadores e metas.                      |
-|                      | Relatório mensal para stakeholders                | Documento com resumo do andamento, riscos, mudanças e próximos passos.                  |
-|                      | Reunião de alinhamento estratégico (se aplicável)| Garantir que o projeto está alinhado aos objetivos maiores da organização.             |
-
-| **Sempre que necessário** | Gerenciar mudanças de escopo ou orçamento   | Avaliar impactos e comunicar partes envolvidas.                                         |
-|                      | Resolver conflitos                                | Mediar desentendimentos entre equipe, fornecedores ou partes interessadas.              |
-|                      | Treinamentos e capacitações                       | Apoiar a equipe no desenvolvimento de habilidades.                                      |
-
----
-
-## ✅ Dicas para um bom planejamento:
-
-- Use ferramentas como Trello, Asana, Jira, Notion ou MS Project.
-- Organize sua agenda com blocos de tempo para cada tipo de tarefa.
-- Reserve tempo para análise estratégica, não apenas execução.
-- Documente decisões, riscos e aprendizados ao longo do caminho.
-- Adapte as rotinas conforme o ritmo e escopo de cada projeto.
-
-
-
+| **Tarefa**                                      | **Descrição / Objetivo**                                                                |
+|------------------------------------------------|------------------------------------------------------------------------------------------|
+| Check-in com equipe (reunião rápida / daily)   | Acompanhar andamento das tarefas, identificar obstáculos, manter equipe alinhada.       |
+| Acompanhamento das Issues                      | Verificar status, andamento e bloqueios nos tickets ativos.                             |
+| Abertura de Issue de dúvidas                   | Registrar perguntas ou impedimentos técnicos diretamente nos repositórios.              |
+| Atualizar quadro de tarefas                    | Garantir que o Kanban ou board esteja sempre fiel ao progresso real.                    |
+| Checking e inspeção de PR                      | Avaliar e aprovar pull requests com base em critérios de qualidade.                     |
+| Checkout de entregas via PR                    | Confirmar se o conteúdo enviado cumpre o escopo acordado.                               |
+| Testes de componentes finalizados              | Validar se os componentes entregues funcionam corretamente.                             |
+| Revisão de componentes                         | Avaliar se o código está limpo, funcional e segue padrões definidos.                    |
+| Responder e-mails e mensagens de stakeholders  | Comunicação constante com partes interessadas.                                          |
+| Monitorar prazos e entregas                    | Verificar se o cronograma está sendo respeitado.                                        |
+| Registrar decisões e mudanças                  | Atualizar a documentação do projeto.                                                    |
+| Reunião de planejamento da semana              | Definir prioridades e revisar metas.                                                    |
+| Atualizar cronograma geral                     | Ajustar prazos conforme o progresso do projeto.                                         |
+| Reunião com stakeholders / cliente             | Informar status do projeto e alinhar entregas.                                          |
+| Revisar riscos e plano de ação                 | Identificar riscos e preparar planos de contingência.                                   |
+| Check financeiro (gastos vs orçamento)         | Verificar aderência do projeto ao orçamento.                                            |
+| Levantamento de pagamento                      | Identificar entregas que geram pagamento.                                               |
+| Solicitação de pagamento                       | Formalizar e solicitar os pagamentos devidos.                                           |
+| Revisão da sprint anterior                     | Avaliar entregas, aprendizados e problemas superados.                                   |
+| Planejamento da próxima sprint                 | Definir backlog e tarefas prioritárias.                                                 |
+| Retrospectiva da equipe                        | Espaço para aprendizado e feedback coletivo.                                            |
+| Análise de desempenho do projeto               | Revisar andamento e resultados do projeto.                                              |
+| Relatório mensal para stakeholders             | Resumo executivo das entregas e próximos passos.                                        |
+| Reunião de alinhamento estratégico             | Verificar se o projeto está alinhado à visão geral da organização.                      |
+| Criação de repositório                         | Abrir novos repositórios conforme o avanço do projeto.                                  |
+| Distribuição de repositórios                   | Organizar a estrutura técnica do projeto para facilitar o desenvolvimento.              |
+| Gerenciar mudanças de escopo ou orçamento      | Negociar e registrar alterações no projeto.                                             |
+| Resolver conflitos                             | Mediar impasses técnicos, operacionais ou interpessoais.                                |
+| Treinamentos e capacitações                    | Apoiar o desenvolvimento da equipe.                                                     |
 
 
 
