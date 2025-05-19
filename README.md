@@ -1,27 +1,49 @@
-###Segunda - 
-Reunião tira duvidas dos repositorios
-Acompanhamento das Issues em andamento
-Testes de componentes finalizados
-Revisão de componentes
+# Planejamento Semanal do Gestor de Projetos
 
-###Terça feira - 
-Checking e inspeção de PR
-Acompanhamento das Issues em andamento
+| **Frequência**       | **Tarefa**                                        | **Descrição / Objetivo**                                                                |
+|----------------------|---------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Diariamente**      | Check-in com equipe (reunião rápida / daily)      | Acompanhar andamento das tarefas, identificar obstáculos, manter equipe alinhada.       |
+|                      | Atualizar status no quadro de tarefas (Kanban etc)| Verificar o progresso de cada tarefa e manter o projeto visualmente organizado.         |
+|                      | Responder e-mails e mensagens de stakeholders     | Garantir comunicação fluida com clientes, patrocinadores e outros interessados.         |
+|                      | Monitorar prazos e entregas                       | Checar se as tarefas estão no tempo previsto, agir se algo estiver atrasado.            |
+|                      | Analisar indicadores de desempenho (se houver)    | Observar produtividade, qualidade, retrabalho ou outros dados relevantes.               |
+|                      | Registrar decisões e mudanças                     | Atualizar documentação sempre que houver alterações no projeto.                         |
+
+| **Semanalmente**     | Reunião de planejamento da semana (com equipe)    | Definir prioridades, delegar tarefas, revisar metas e alinhar expectativas.             |
+|                      | Atualizar cronograma geral                        | Ajustar datas com base no progresso real.                                                |
+|                      | Reunião com stakeholders / cliente                | Informar status do projeto, alinhar entregas e expectativas.                            |
+|                      | Revisar riscos e plano de ação                    | Identificar novos riscos e rever planos de contingência.                                |
+|                      | Check financeiro (gastos vs orçamento)            | Verificar se o projeto está dentro do orçamento previsto.                               |
+
+| **Quinzenal / Sprint** | Revisão da sprint anterior                     | Avaliar o que foi entregue, lições aprendidas, obstáculos superados.                    |
+|                      | Planejamento da próxima sprint                   | Definir backlog, prioridades e quem será responsável por cada item.                     |
+|                      | Retrospectiva da equipe                          | Espaço para feedbacks, sugestões e melhorias na forma de trabalhar.                     |
+
+| **Mensalmente**      | Análise de desempenho do projeto                  | Avaliar progresso geral, entregas realizadas, indicadores e metas.                      |
+|                      | Relatório mensal para stakeholders                | Documento com resumo do andamento, riscos, mudanças e próximos passos.                  |
+|                      | Reunião de alinhamento estratégico (se aplicável)| Garantir que o projeto está alinhado aos objetivos maiores da organização.             |
+
+| **Sempre que necessário** | Gerenciar mudanças de escopo ou orçamento   | Avaliar impactos e comunicar partes envolvidas.                                         |
+|                      | Resolver conflitos                                | Mediar desentendimentos entre equipe, fornecedores ou partes interessadas.              |
+|                      | Treinamentos e capacitações                       | Apoiar a equipe no desenvolvimento de habilidades.                                      |
+
+---
+
+## ✅ Dicas para um bom planejamento:
+
+- Use ferramentas como Trello, Asana, Jira, Notion ou MS Project.
+- Organize sua agenda com blocos de tempo para cada tipo de tarefa.
+- Reserve tempo para análise estratégica, não apenas execução.
+- Documente decisões, riscos e aprendizados ao longo do caminho.
+- Adapte as rotinas conforme o ritmo e escopo de cada projeto.
 
 
 
-###Quarta feira - checking e inspeção de PR
-Acompanhamento das Issues em andamento
 
 
-###Quinta feira - 
-Checkout de entregas PR
-Levantamento de pagamento
-Solicitação de pagamento
 
-###Sexta feira -
-Criação de repositório
-Distribuição de repositórios
+
+
 
 
 
