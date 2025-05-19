@@ -2,37 +2,29 @@
 
 | **Tarefa**                                      | **Descrição / Objetivo**                                                                |
 |------------------------------------------------|------------------------------------------------------------------------------------------|
-| Check-in com equipe (reunião rápida / daily)   | Acompanhar andamento das tarefas, identificar obstáculos, manter equipe alinhada.       |
+| Check-in com equipe (watzapp rápida/ meet)     | Acompanhar andamento das tarefas, identificar obstáculos, manter equipe alinhada.       |
 | Acompanhamento das Issues                      | Verificar status, andamento e bloqueios nos tickets ativos.                             |
 | Abertura de Issue de dúvidas                   | Registrar perguntas ou impedimentos técnicos diretamente nos repositórios.              |
-| Atualizar quadro de tarefas                    | Garantir que o Kanban ou board esteja sempre fiel ao progresso real.                    |
+| Atualizar quadro de tarefas                    | Garantir que o GitHub esteja sempre fiel ao progresso real.                             |
 | Checking e inspeção de PR                      | Avaliar e aprovar pull requests com base em critérios de qualidade.                     |
-| Checkout de entregas via PR                    | Confirmar se o conteúdo enviado cumpre o escopo acordado.                               |
-| Testes de componentes finalizados              | Validar se os componentes entregues funcionam corretamente.                             |
-| Revisão de componentes                         | Avaliar se o código está limpo, funcional e segue padrões definidos.                    |
-| Responder e-mails e mensagens de stakeholders  | Comunicação constante com partes interessadas.                                          |
-| Monitorar prazos e entregas                    | Verificar se o cronograma está sendo respeitado.                                        |
-| Registrar decisões e mudanças                  | Atualizar a documentação do projeto.                                                    |
-| Reunião de planejamento da semana              | Definir prioridades e revisar metas.                                                    |
+| Checkout de entregas via PR                    | Confirmar se o conteúdo enviado cumpre o escopo acordado, conforme testes realizados.   |
+| Testes de componentes finalizados              | Validar se os componentes entregues funcionam corretamente, (PowerShell - DartPad).     |
+| Solicitar Revisão do consultor                 | Avaliar se o código está limpo, funcional e segue padrões definidos.                    |
+| Monitorar prazos e entregas                    | Verificar se o cronograma está sendo respeitado (label - Urgente não Urgente).          |
+| Registrar decisões e mudanças                  | Atualizar a documentação do projeto (Milestone).                                        |
+| Criação de repositório                         | Abrir novos repositórios conforme o avanço do projeto.                                  |
+| Distribuição de repositórios                   | Organizar a estrutura técnica do projeto para facilitar o desenvolvimento.              |
+| Reunião de planejamento de 30 min              | Definir prioridades e revisar metas.                                                    |
 | Atualizar cronograma geral                     | Ajustar prazos conforme o progresso do projeto.                                         |
 | Reunião com stakeholders / cliente             | Informar status do projeto e alinhar entregas.                                          |
 | Revisar riscos e plano de ação                 | Identificar riscos e preparar planos de contingência.                                   |
-| Check financeiro (gastos vs orçamento)         | Verificar aderência do projeto ao orçamento.                                            |
 | Levantamento de pagamento                      | Identificar entregas que geram pagamento.                                               |
 | Solicitação de pagamento                       | Formalizar e solicitar os pagamentos devidos.                                           |
-| Revisão da sprint anterior                     | Avaliar entregas, aprendizados e problemas superados.                                   |
-| Planejamento da próxima sprint                 | Definir backlog e tarefas prioritárias.                                                 |
-| Retrospectiva da equipe                        | Espaço para aprendizado e feedback coletivo.                                            |
+| Planejamento da próxima sprint                 | Definir backlog e tarefas prioritárias as final da semana(SextaFeira).                  |
 | Análise de desempenho do projeto               | Revisar andamento e resultados do projeto.                                              |
 | Relatório mensal para stakeholders             | Resumo executivo das entregas e próximos passos.                                        |
 | Reunião de alinhamento estratégico             | Verificar se o projeto está alinhado à visão geral da organização.                      |
-| Criação de repositório                         | Abrir novos repositórios conforme o avanço do projeto.                                  |
-| Distribuição de repositórios                   | Organizar a estrutura técnica do projeto para facilitar o desenvolvimento.              |
 | Gerenciar mudanças de escopo ou orçamento      | Negociar e registrar alterações no projeto.                                             |
-| Resolver conflitos                             | Mediar impasses técnicos, operacionais ou interpessoais.                                |
-| Treinamentos e capacitações                    | Apoiar o desenvolvimento da equipe.                                                     |
-
-
 
 
 
