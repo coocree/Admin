@@ -10,8 +10,8 @@
 | Checkout de entregas via PR                    | Confirmar se o conteúdo enviado cumpre o escopo acordado, conforme testes realizados.   |
 | Testes de componentes finalizados              | Validar se os componentes entregues funcionam corretamente, (PowerShell - DartPad).     |
 | Solicitar Revisão do consultor                 | Avaliar se o código está limpo, funcional e segue padrões definidos.                    |
-| Monitorar prazos e entregas                    | Verificar se o cronograma está sendo respeitado (label - Urgente não Urgente).          |
-| Registrar decisões e mudanças                  | Atualizar a documentação do projeto (Milestone).                                        |
+| Monitorar prazos e entregas                    | Verificar se o cronograma está sendo respeitado (Milestone),(label).                    |
+| Registrar decisões e mudanças                  | Atualizar a documentação do projeto .                                                   |
 | Criação de repositório                         | Abrir novos repositórios conforme o avanço do projeto.                                  |
 | Distribuição de repositórios                   | Organizar a estrutura técnica do projeto para facilitar o desenvolvimento.              |
 | Reunião de planejamento de 30 min              | Definir prioridades e revisar metas.                                                    |
@@ -42,14 +42,6 @@
 ✅ Checklist Operacional (Passo a Passo Diário)
 Para o Desenvolvedor
 
- Desenvolver componente no Flutter.
-
- Publicar no repositório do GitHub.
-
- Notificar o gestor de projetos.
-
-Para o Gestor de Projetos
-
  Testar o componente (PowerShell ou DartPad).
 
  Verificar conformidade com requisitos.
@@ -60,35 +52,15 @@ Para o Gestor de Projetos
 
  Criar branch específica para a issue.
 
- Aguardar pull request do dev.
-
  Testar e revisar o PR.
 
  Aprovar ou comentar com melhorias.
 
  Se aprovado, solicitar merge ao Diretor de TI.
 
-Para o Diretor de TI
+Solicitar Validação do código e funcionamento.
 
- Validar código e funcionamento.
-
- Fazer merge na branch main.
-
-# Admin
-Documento de como funciona o CooCree
-
-### Descrição do Problema
-Descreva o comportamento inesperado ou a sugestão de melhoria.
-
-### Componente Relacionado
-Nome do componente: `nome_do_componente.dart`
-
-### Passos para Reproduzir (se aplicável)
-1. ...
-2. ...
-
-### Esperado
-Descreva o que deveria acontecer.
+Solicitar merge na branch main.
 
 ### Evidência
 Inclua prints, vídeos ou links (ex: DartPad).
