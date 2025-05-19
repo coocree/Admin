@@ -1,32 +1,29 @@
-# Lista de Tarefas do Gestor de Projetos
-
-| **Tarefa**                                      | **Descrição / Objetivo**                                                                |
-|------------------------------------------------|------------------------------------------------------------------------------------------|
-| Check-in com equipe (watzapp rápida/ meet)     | Acompanhar andamento das tarefas, identificar obstáculos, manter equipe alinhada.       |
-| Acompanhamento das Issues                      | Verificar status, andamento e bloqueios nos tickets ativos.                             |
-| Abertura de Issue de dúvidas                   | Registrar perguntas ou impedimentos técnicos diretamente nos repositórios.              |
-| Atualizar quadro de tarefas                    | Garantir que o GitHub esteja sempre fiel ao progresso real.                             |
-| Checking e inspeção de PR                      | Avaliar e aprovar pull requests com base em critérios de qualidade.                     |
-| Checkout de entregas via PR                    | Confirmar se o conteúdo enviado cumpre o escopo acordado, conforme testes realizados.   |
-| Testes de componentes finalizados              | Validar se os componentes entregues funcionam corretamente, (PowerShell - DartPad).     |
-| Solicitar Revisão do consultor                 | Avaliar se o código está limpo, funcional e segue padrões definidos.                    |
-| Monitorar prazos e entregas                    | Verificar se o cronograma está sendo respeitado (Milestone),(label).                    |
-| Registrar decisões e mudanças                  | Atualizar a documentação do projeto .                                                   |
-| Criação de repositório                         | Abrir novos repositórios conforme o avanço do projeto.                                  |
-| Distribuição de repositórios                   | Organizar a estrutura técnica do projeto para facilitar o desenvolvimento.              |
-| Reunião de planejamento de 30 min              | Definir prioridades e revisar metas.                                                    |
-| Atualizar cronograma geral                     | Ajustar prazos conforme o progresso do projeto.                                         |
-| Reunião com stakeholders / cliente             | Informar status do projeto e alinhar entregas.                                          |
-| Revisar riscos e plano de ação                 | Identificar riscos e preparar planos de contingência.                                   |
-| Levantamento de pagamento                      | Identificar entregas que geram pagamento.                                               |
-| Solicitação de pagamento                       | Formalizar e solicitar os pagamentos devidos.                                           |
-| Planejamento da próxima sprint                 | Definir backlog e tarefas prioritárias as final da semana(SextaFeira).                  |
-| Análise de desempenho do projeto               | Revisar andamento e resultados do projeto.                                              |
-| Relatório mensal para stakeholders             | Resumo executivo das entregas e próximos passos.                                        |
-| Reunião de alinhamento estratégico             | Verificar se o projeto está alinhado à visão geral da organização.                      |
-| Gerenciar mudanças de escopo ou orçamento      | Negociar e registrar alterações no projeto.                                             |
-
-
+🧭 Fluxo Operacional na CooCree via GitHub – Rotina do Gestor de Projetos
+Ordem	Tarefa	Descrição / Objetivo
+01	Reunião com stakeholders / cliente	Iniciar o projeto, alinhar objetivos, entender escopo inicial e marcos.
+02	Reunião de alinhamento estratégico	Garantir que o projeto esteja aderente à visão da empresa/parceiro.
+03	Gerenciar mudanças de escopo ou orçamento	Negociar e registrar qualquer ajuste antes de execução técnica.
+04	Criação de repositório	Criar repositórios no GitHub conforme escopo e estrutura acordada.
+05	Distribuição de repositórios	Organizar tecnicamente os repositórios para a equipe de desenvolvimento.
+06	Reunião de planejamento de 30 min	Planejar ciclo inicial com prioridades, papéis e entregas.
+07	Planejamento da próxima sprint	Definir backlog e organizar tarefas no quadro GitHub semanalmente.
+08	Atualizar cronograma geral	Espelhar planejamento no cronograma geral do projeto.
+09	Registrar decisões e mudanças	Atualizar documentação no repositório com decisões técnicas e de negócio.
+10	Levantamento de pagamento	Avaliar entregas vinculadas a pagamentos no contrato.
+11	Solicitação de pagamento	Formalizar a requisição de pagamento de acordo com progresso validado.
+12	Check-in com equipe (watzapp rápida/ meet)	Acompanhar equipe e remover bloqueios no dia a dia.
+13	Acompanhamento das Issues	Verificar o andamento técnico e o progresso no GitHub.
+14	Atualizar quadro de tarefas	Manter board no GitHub atualizado com status real das tarefas.
+15	Abertura de Issue de dúvidas	Registrar perguntas e bloqueios no repositório de forma rastreável.
+16	Checking e inspeção de PR	Analisar pull requests conforme critérios de qualidade técnica.
+17	Solicitar Revisão do consultor	Chamar revisão técnica especializada para garantir padrões de código.
+18	Checkout de entregas via PR	Confirmar que a entrega cumpre o escopo e requisitos dos testes.
+19	Testes de componentes finalizados	Validar funcionalidades entregues no ambiente (PowerShell / DartPad).
+20	Monitorar prazos e entregas	Confirmar aderência ao cronograma e ajustar se necessário.
+21	Revisar riscos e plano de ação	Avaliar riscos emergentes e documentar planos de mitigação.
+22	Análise de desempenho do projeto	Revisar indicadores de entrega, retrabalho e progresso.
+23	Relatório mensal para stakeholders	Consolidar entregas, pendências e próximos passos.
+24	Merge ou CI/CD (entrega final)	Concluir a entrega técnica via merge no branch principal ou deploy automático.
 
 
 
