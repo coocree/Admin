@@ -2,7 +2,8 @@
 # Rotina do Gestor de Projetos - CooCree (Fluxo GitHub)
 
 Rotina de interlocução com cliente, entrada das demandas, entrega de recursos do pedido, devolução com a aplicação.
-![image](https://github.com/user-attachments/assets/aa853587-3cd7-4aab-8882-86e6b1e01ce2)
+![image](https://github.com/user-attachments/assets/daf73c0e-0c35-4631-879f-25bf67f01eb2)
+
 
 
 
