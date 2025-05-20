@@ -1,7 +1,7 @@
 
 # Rotina do Gestor de Projetos - CooCree (Fluxo GitHub)
 
-Fluxo organizado do início ao fim de um ciclo de projeto, desde o alinhamento com stakeholders até a entrega via merge ou CI/CD.
+Fluxo organizado do início ao fim de um ciclo de projeto.
 
 | **Ordem** | **Tarefa**                                          | **Descrição / Objetivo**                                                                 |
 |-----------|-----------------------------------------------------|-------------------------------------------------------------------------------------------|
