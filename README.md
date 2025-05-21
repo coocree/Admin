@@ -4,9 +4,9 @@ Classificação dos tipos de Entradas na CooCree.
 2. **Desenvolvimento Web com Flutter (Flutter Web)**
 3. **Desenvolvimento de Aplicativos Desktop**
 4. **Manutenção e Evolução de Aplicativos Existentes**
-5. **Design e UX/UI de Aplicativos Flutter**
+5. **Design e UX/UI de Aplicativos**
 6. **Integrações com APIs e Serviços Externos**
-7. **Consultoria Técnica em Flutter**
+7. **Consultoria Técnica**
 8. **Testes e Qualidade**
 9. **Publicação e Suporte na App Store / Google Play**
 10. **Internacionalização e Acessibilidade**
