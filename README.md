@@ -19,7 +19,7 @@ Fluxo de interlocução com cliente, entrada das demandas, entrega de recursos d
 
 
 
-Lista de tarefas em ordem que deve ser inspecionado diariamente no desenvolvimento de componente.
+Lista de tarefas em ordem que deve ser inspecionado diariamente no GitHub.
 
 | **Ordem**   | **Tarefa**                                        | **Descrição / Objetivo**                                                                |
 |-------------|---------------------------------------------------|-----------------------------------------------------------------------------------------|
