@@ -21,17 +21,17 @@ Fluxo de interlocução com cliente, entrada das demandas, entrega de recursos d
 
 Lista de tarefas em ordem que deve ser inspecionado diariamente no GitHub.
 
-| **Ordem**   | **Tarefa**                                        | **Descrição / Objetivo**                                                                |
+| **Ordem**   | **Tarefa / Objetivo**                                                                |
 |-------------|---------------------------------------------------|-----------------------------------------------------------------------------------------|
-| **01**      | Check-in dos Repositorios no GitHub               | Acompanhar andamento dos status do Repositorios.                                        |
-| **02**      | Monitorar prazos e entregas                       | Checar se as tarefas estão no tempo previsto, agir se algo estiver atrasado.            |
-| **03**      | Check-in da equipe status GitHub                  | Acompanhar andamento das tarefas e commits dos desenvolvedores.                         |
-| **04**      | Seleciona os Commits a serem testados             | cria uma lista dos componentes indicado para teste pelo desenvolvedor.                  |
-| **05**      | Atualizar status no quadro de tarefas (Kanban etc)| Verificar o progresso de cada tarefa e manter o projeto visualmente organizado.         |
-| **06**      | Aplica o teste de componentes                     | Testa o componente em Power Shel ou DartPad, inspecionar, execução, funcionamento e layout  |
-| **07**      | Registrar falhas, comentarios e mudanças          | Abrir uma Issue para atualizar documentação sempre que houver alterações no projeto .   |
-| **08**      | Associar a Branch                                 | Verificar se a Issue tem uma Branch, caso não tenha, deve criar.                        |
-| **09**      | Certificar a comunicação                          | Divulgar em grupos de watzapp a Issue, Status e prazo para correção.                    |
+| **01**      | Verificar no GitHub o andamento dos status dos Repositorios.                            |
+| **02**      | Checar se as Issues estão no tempo previsto, agir se algo estiver atrasado.            |
+| **03**      | Acompanhar andamento das tarefas e commits dos desenvolvedores.                         |
+| **04**      | Cria uma lista dos componentes indicado para teste pelo desenvolvedor.                  |
+| **05**      | Verificar o progresso de cada tarefa e manter o projeto visualmente organizado.         |
+| **06**      | Testa o componente em Power Shel ou DartPad, inspecionar, execução, funcionamento e layout  |
+| **07**      | Abrir uma Issue para atualizar documentação sempre que houver alterações no projeto .   |
+| **08**      | Verificar se a Issue tem uma Branch, caso não tenha, deve criar.                        |
+| **09**      | Divulgar em grupos de watzapp a Issue, Status e prazo para correção.                    |
 
 
 
