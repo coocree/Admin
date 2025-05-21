@@ -22,7 +22,7 @@ Fluxo de interlocução com cliente, entrada das demandas, entrega de recursos d
 Lista de tarefas em ordem que deve ser inspecionado diariamente no GitHub.
 
 | **Ordem**   | **Tarefa / Objetivo**                                                                |
-|-------------|---------------------------------------------------|-----------------------------------------------------------------------------------------|
+|-------------|-----------------------------------------------------------------------------------------|
 | **01**      | Verificar no GitHub o andamento dos status dos Repositorios.                            |
 | **02**      | Checar se as Issues estão no tempo previsto, agir se algo estiver atrasado.            |
 | **03**      | Acompanhar andamento das tarefas e commits dos desenvolvedores.                         |
