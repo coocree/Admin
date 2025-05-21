@@ -1,3 +1,17 @@
+Classificação dos tipos de Entradas na CooCree.
+
+1. **Desenvolvimento de Aplicativos Mobile**
+2. **Desenvolvimento Web com Flutter (Flutter Web)**
+3. **Desenvolvimento de Aplicativos Desktop**
+4. **Manutenção e Evolução de Aplicativos Existentes**
+5. **Design e UX/UI de Aplicativos Flutter**
+6. **Integrações com APIs e Serviços Externos**
+7. **Consultoria Técnica em Flutter**
+8. **Testes e Qualidade**
+9. **Publicação e Suporte na App Store / Google Play**
+10. **Internacionalização e Acessibilidade**
+
+
 # Rotina do Gestor de Projetos - CooCree (Fluxo GitHub)
 
 Fluxo de interlocução com cliente, entrada das demandas, entrega de recursos do pedido, devolução com o componente ou a aplicação.
@@ -22,17 +36,7 @@ Lista de tarefas em ordem que deve ser inspecionado diariamente no desenvolvimen
 
 
 
-Classificação dos tipos de Entradas na CooCree.
-1. **Desenvolvimento de Aplicativos Mobile**
-2. **Desenvolvimento Web com Flutter (Flutter Web)**
-3. **Desenvolvimento de Aplicativos Desktop**
-4. **Manutenção e Evolução de Aplicativos Existentes**
-5. **Design e UX/UI de Aplicativos Flutter**
-6. **Integrações com APIs e Serviços Externos**
-7. **Consultoria Técnica em Flutter**
-8. **Testes e Qualidade**
-9. **Publicação e Suporte na App Store / Google Play**
-10. **Internacionalização e Acessibilidade**
+
 
 
 
