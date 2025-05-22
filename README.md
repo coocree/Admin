@@ -1,51 +1,32 @@
-## Processo de Monitoramento e Validação de Repositórios
+# Procedimentos de Verificação, Monitoramento e Testes em Repositórios
 
-### 1. Verificação de Correções
+- Verificar os repositórios (PRs, commits, merges) para confirmar se as correções foram feitas. Em seguida, realizar os testes do componente.
 
-- Verificar os repositórios (PRs, commits, merges) para confirmar se as correções foram feitas.
-- Em seguida, realizar os testes do componente.
+- Verificar os repositórios (PRs, commits, merges) para confirmar se as correções não foram feitas. Em seguida, reportar a necessidade de atender a Issue deste repositório em grupo específico.
 
-- Verificar os repositórios (PRs, commits, merges) para confirmar se as correções **não** foram feitas.
-- Em seguida, reportar a necessidade de atender à **Issue** deste repositório no grupo específico.
+- Ao criar issues, você pode:
+  - Adicionar checklists com etapas claras;
+  - Adicionar labels para categorizá-las;
+  - Atribuir responsáveis (assignees) para definir quem irá atuar;
+  - Vincular a issue a uma milestone correspondente à sprint ou entrega prevista;
+  - Comentar com atualizações frequentes;
+  - Mencionar pessoas ou times (@usuário ou @equipe) para direcionar a atenção.
 
-### 2. Criação de Issues
+- Inspecionar as Issues, (reporta issue em grupo específico do projeto),
+  - Issue resolvidas com pullRequest, solicitar o merge e fechar a issue.
 
-Ao criar issues, você pode:
+- Inspecionar as issues. Caso não estejam resolvidas, reportá-las ao grupo específico do projeto ou à pessoa responsável.
 
-- Adicionar **checklists** com etapas claras;
-- Adicionar **labels** para categorizá-las;
-- **Atribuir responsáveis (assignees)** para definir quem irá atuar;
-- **Vincular a issue a uma milestone** correspondente à sprint ou entrega prevista;
-- **Comentar com atualizações frequentes**;
-- **Mencionar pessoas ou times** (`@usuário` ou `@equipe`) para direcionar a atenção.
+- Monitorar os commits feitos pelos desenvolvedores. Quando o repositório tiver commits recentes, deve-se verificar com atenção o que foi desenvolvido.
 
-### 3. Inspeção de Issues
+- Monitorar os commits feitos por desenvolvedores.  
+  - Quando o repositório não tiver commit recentes deve enviar uma mensagem ao responsável.
 
-- Inspecionar as Issues e reportá-las no grupo específico do projeto.
-- Caso a issue tenha sido **resolvida com Pull Request**, solicitar o merge e **fechar a issue**.
-- Caso **não esteja resolvida**, reportar ao grupo específico do projeto ou à pessoa responsável.
+- Monitorar os commits feitos pelos desenvolvedores.  
+  - Quando o repositório não tiver commits recentes, deve-se enviar uma mensagem ao responsável.
 
-### 4. Monitoramento de Commits
+- Testar os componentes indicados no Pull Request utilizando PowerShell ou DartPad, inspecionando a execução, o funcionamento e o layout.  
+  - Se os testes forem bem-sucedidos, fechar o Pull Request e solicitar consultor para fazer merge.
 
-- Monitorar os commits feitos pelos desenvolvedores.
-  - Quando o repositório **tiver commits recentes**, verificar com atenção o que foi desenvolvido.
-  - Quando o repositório **não tiver commits recentes**, enviar uma mensagem ao responsável.
-
-### 5. Testes de Componentes (Pull Request)
-
-- **Testar os componentes indicados no Pull Request** utilizando **PowerShell** ou **DartPad**, inspecionando:
-  - A execução,
-  - O funcionamento,
-  - E o layout.
-
-- **Se os testes forem bem-sucedidos**:
-  - Fechar o Pull Request;
-  - Solicitar ao consultor que faça o merge.
-
-- **Se os testes não forem bem-sucedidos**:
-  - Abrir uma **issue**;
-  - Reportar especificamente os problemas encontrados.
-
-
-
-
+- Testar os componentes indicados no Pull Request utilizando PowerShell ou DartPad, inspecionando a execução, o funcionamento e o layout.  
+  - Se os testes não forem bem-sucedidos, abrir uma issue e reportar especificamente os problemas encontrados.
